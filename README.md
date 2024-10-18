@@ -1,5 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 🤷‍♀️ What do you want to be when you grow up? Astronaut was my answer. Growing up, I discovered that my true passion lay in the digital space. I found a way to go through wormholes sitting at my computer, losing track of time when performing SQL queries, optimizing algorithms or learning new technologies.
 
 One of the things I enjoy the most is solving puzzles and using logical thinking; that's why I decided to become a Computer Science Engineer at UCI, in Havana, Cuba. Throughout my career, I have played developer and team leader roles, which has been one of the most enriching experiences as it allowed me to carry out and supervise the complete development cycle, help and cooperate with the rest of my teammates and acquire a broader vision of the product.
