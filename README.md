@@ -53,5 +53,6 @@ Below you can find some projects where I show some of my skills and experience. 
 
 <p align="center">
 <a href="https://linkedin.com/in/wilmar-barban-otano-9b346911b" target="blank"><img align="left" src="https://skillicons.dev/icons?i=linkedin" alt="Wilmar Barban Otano linkedin" height="40" width="40" /></a>
+<a href="https://stackexchange.com/users/34900564/wbrothers" target="blank"><img align="left" src="https://skillicons.dev/icons?i=stackoverflow" alt="Wilmar Barban Otano stackoverflow" height="40" width="40" /></a>
 <a href="mailto:yanet.wilmar@gmail.com">                                      <img align="left" src="https://skillicons.dev/icons?i=gmail" alt="Wilmar Barban Otano gmail" height="40" width="40"  /></a>
 </p>
